@@ -4,3 +4,11 @@ h1{color: crimson;}
 a {background-color: blue;}
 .class2.class3 {color: rgb(185, 101, 80);}
 .class2.class3 p {background-color: deeppink;}
+.class6 {border: 5px solid purple; background-color: darkseagreen;}
+.class6 { padding-top: 100px;bottom: 100px;right: 150px;padding-left: 50px;;}
+.class6 {margin-top: 100px;margin-bottom: 50px;margin-right: 150px;margin-left: 200;}
+.class3 {margin: 100px 150px 600 px 200px;padding: 100px 40px 60px 140px;}
+a:link {color: brown;} 
+a:visited {color: blue;}
+a:hover {color: chartreuse;} 
+a:active {color: blueviolet;}
