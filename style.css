@@ -17,4 +17,6 @@ ul {list-style-type: none; margin: 0px;padding: 0px;} /* určuje co za odrážky
 li {display: inline; margin: 20px;padding: 20px; border: 5px solid black;} /*z položek bude inline element*/
 a {display: block;} /* inline elementům nejde nastavovat margin a padding*/
 .firstcontainer {margin-bottom: 100px;}
-.lala {background-color: deeppink; width: 150px; height: 200px; overflow: scroll;} /* overflow hidden schová text co se nevzleze do prvku,scroll udělá posouvací element*/
+.lala {background-color: deeppink; width: 150px; height: 200px; overflow: hidden;} /* overflow hidden schová text co se nevzleze do prvku,scroll udělá posouvací element*/
+.box {border: 5px solid blue;}
+.box {width: 20%; float: left;} /* float řadí texty zleva nebpo zprava*/
