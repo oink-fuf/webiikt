@@ -14,4 +14,5 @@ a:hover {color: chartreuse;} /* když po odkazu přejedem myší*/
 a:active {color: blueviolet;} /* když na něj klikáme*/
 a {text-decoration: none;}
 ul {list-style-type: none; margin: 0px;padding: 0px;} /* určuje co za odrážky bude u položek seznamu*/
-li {display: inline; margin: 20px;padding: 20px; border: 5px solid black;}
+li {display: inline; margin: 20px;padding: 20px; border: 5px solid black;} /*z položek bude inline element*/
+a {display: block;}
