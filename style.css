@@ -16,3 +16,5 @@ a {text-decoration: none;}
 ul {list-style-type: none; margin: 0px;padding: 0px;} /* určuje co za odrážky bude u položek seznamu*/
 li {display: inline; margin: 20px;padding: 20px; border: 5px solid black;} /*z položek bude inline element*/
 a {display: block;} /* inline elementům nejde nastavovat margin a padding*/
+.firstcontainer {margin-bottom: 100px;}
+.lala {background-color: deeppink;}
