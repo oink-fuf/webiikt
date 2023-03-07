@@ -1,3 +1,4 @@
+
 /*
 h1{color: crimson;}
 #id1 {background-color: blueviolet;}
@@ -22,5 +23,9 @@ a {display: block;}
 .box {border: 5px solid blue;}
 .box {width: 20%; float: left;} 
 */
+* {margin: 0px;}
 ul {list-style-type: none; background-color: darkgrey;overflow: hidden;}
 li {float: left; padding: 30px;}
+a {color: antiquewhite; font-size: 30px; text-decoration: none;}
+.dropdown-content {display: none;}
+li:hover {background-color: blueviolet; }
