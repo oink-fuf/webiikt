@@ -21,3 +21,6 @@ a {display: block;}
 .lala {background-color: deeppink; width: 150px; height: 200px; overflow: hidden;} 
 .box {border: 5px solid blue;}
 .box {width: 20%; float: left;} 
+*/
+ul {list-style-type: none; background-color: darkgrey;overflow: hidden;}
+li {float: left; padding: 30px;}
