@@ -1,3 +1,4 @@
+/*
 h1{color: crimson;}
 #id1 {background-color: blueviolet;}
 .class1 {color: darkorange;}
@@ -8,15 +9,15 @@ a {background-color: blue;}
 .class6 { padding-top: 100px;bottom: 100px;right: 150px;padding-left: 50px;;}
 .class6 {margin-top: 100px;margin-bottom: 50px;margin-right: 150px;margin-left: 200;}
 .class3 {margin: 100px 150px 600 px 200px;padding: 100px 40px 60px 140px;}
-a:link {color: brown;} /* změna barvy když tam odkazprostě je*/
-a:visited {color: blue;} /* když odkaz navštívímě*/
-a:hover {color: chartreuse;} /* když po odkazu přejedem myší*/
-a:active {color: blueviolet;} /* když na něj klikáme*/
+a:link {color: brown;} 
+a:visited {color: blue;} 
+a:hover {color: chartreuse;} 
+a:active {color: blueviolet;} 
 a {text-decoration: none;}
-ul {list-style-type: none; margin: 0px;padding: 0px;} /* určuje co za odrážky bude u položek seznamu*/
-li {display: inline; margin: 20px;padding: 20px; border: 5px solid black;} /*z položek bude inline element*/
-a {display: block;} /* inline elementům nejde nastavovat margin a padding*/
+ul {list-style-type: none; margin: 0px;padding: 0px;} 
+li {display: inline; margin: 20px;padding: 20px; border: 5px solid black;} 
+a {display: block;} 
 .firstcontainer {margin-bottom: 100px;}
-.lala {background-color: deeppink; width: 150px; height: 200px; overflow: hidden;} /* overflow hidden schová text co se nevzleze do prvku,scroll udělá posouvací element*/
+.lala {background-color: deeppink; width: 150px; height: 200px; overflow: hidden;} 
 .box {border: 5px solid blue;}
-.box {width: 20%; float: left;} /* float řadí texty zleva nebpo zprava*/
+.box {width: 20%; float: left;} 
